@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Parctica3_213248">
         <activity
+            android:name=".ProductosActivity"
+            android:exported="false" />
+        <activity
             android:name=".MenuActivity"
             android:exported="false" />
         <activity
